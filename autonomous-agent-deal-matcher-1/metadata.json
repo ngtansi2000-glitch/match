@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Agent Deal Matcher",
+  "description": "A multi-agent autonomous matching platform that works 24/7 to crawl feeds, discover buyer-seller demand pairs, evaluate deal confidence, and orchestrate automated outreach to secure commissions.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
